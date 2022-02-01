@@ -1,6 +1,6 @@
 "Hello, World!" Eu sou o Djalma Silveira, estudante/entusiasta de desenvolvimento de softwares e futuro profissional da área!!
 
-- 🌱 Estudando Análise e Desenvilvimento de Softwares e aprimorando conhecimentos de linguagens de programação.
+- 🌱 Estudando Análise e Desenvilvimento de Sistemas e aprimorando conhecimentos de linguagens de programação.
 
 <div align="center">
   <a href="https://github.com/djalmabsilveira">
