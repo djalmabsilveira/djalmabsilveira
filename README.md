@@ -9,8 +9,5 @@
  </div>
   
 <div><br>
-  <img alt="DJ-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="DJ-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="DJ-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="DJ-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/typescript-original.svg">
+  <img alt="My Skills" height="40" src="https://skillicons.dev/icons?i=html,css,js,typescript,angular,github">
 </div>
